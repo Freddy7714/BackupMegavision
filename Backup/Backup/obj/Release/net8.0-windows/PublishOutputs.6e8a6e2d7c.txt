@@ -1,0 +1,8 @@
+C:\Backup\Backup.exe
+C:\Backup\Backup.dll
+C:\Backup\Backup.deps.json
+C:\Backup\Backup.runtimeconfig.json
+C:\Backup\Backup.pdb
+C:\Backup\System.CodeDom.dll
+C:\Backup\System.Management.dll
+C:\Backup\runtimes\win\lib\net8.0\System.Management.dll

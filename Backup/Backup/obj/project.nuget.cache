@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUSyErFhrBE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Freddy\\source\\repos\\Backup\\Backup\\Backup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freddy\\.nuget\\packages\\system.codedom\\9.0.0-preview.7.24405.7\\system.codedom.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\Freddy\\.nuget\\packages\\system.management\\9.0.0-preview.7.24405.7\\system.management.9.0.0-preview.7.24405.7.nupkg.sha512"
+  ],
+  "logs": []
+}

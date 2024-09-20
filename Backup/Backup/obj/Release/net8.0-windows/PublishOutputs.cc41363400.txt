@@ -1,0 +1,8 @@
+C:\Backup Para Megavisión\Backup.exe
+C:\Backup Para Megavisión\Backup.dll
+C:\Backup Para Megavisión\Backup.deps.json
+C:\Backup Para Megavisión\Backup.runtimeconfig.json
+C:\Backup Para Megavisión\Backup.pdb
+C:\Backup Para Megavisión\System.CodeDom.dll
+C:\Backup Para Megavisión\System.Management.dll
+C:\Backup Para Megavisión\runtimes\win\lib\net8.0\System.Management.dll
